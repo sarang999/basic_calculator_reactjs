@@ -36,7 +36,7 @@ export const Calculator = () => {
 
       <div className="keypad">
         <button className="clear" onClick={clear} id="clear">
-          clear
+          Clear
         </button>
         <button onClick={backSpace} id="backSpace">
           C

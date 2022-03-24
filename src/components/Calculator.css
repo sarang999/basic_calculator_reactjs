@@ -1,5 +1,5 @@
 #container {
-  background-color: black;
+  background-color: rgb(33, 250, 250);
   width: 500px;
   height: 500px;
   margin: auto;
@@ -15,7 +15,7 @@
   margin-bottom: 30px;
   text-align: right;
   letter-spacing: 1px;
-  background-color: antiquewhite;
+  background-color: rgb(255, 170, 59);
 }
 .keypad {
   display: grid;
@@ -35,5 +35,5 @@
   grid-column: 3/5;
 }
 .equal, .clear{
-    background-color: gray;
+    background-color: rgb(233, 160, 160);
 }
